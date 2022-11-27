@@ -57,7 +57,7 @@ class User(MessageCreation):
         )
 
     def create_delete_message(self):
-
+        ...
 
 class MessagingApp:
     """Application  that will contain an instance of a
